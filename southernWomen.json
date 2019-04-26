@@ -1,0 +1,162 @@
+{
+    "nodes": [
+      {"id": "EVELYN", "group": 1},
+      {"id": "LAURA", "group": 1},
+      {"id": "THERESA", "group": 1},
+      {"id": "BRENDA", "group": 1},
+      {"id": "CHARLOTTE", "group": 1},
+      {"id": "FRANCES", "group": 1},
+      {"id": "ELEANOR", "group": 1},
+      {"id": "PEARL", "group": 1},
+      {"id": "RUTH", "group": 1},
+      {"id": "VERNE", "group": 1},
+      {"id": "MYRNA", "group": 1},
+      {"id": "KATHERINE", "group": 1},
+      {"id": "SYLVIA", "group": 1},
+      {"id": "NORA", "group": 1},
+      {"id": "HELEN", "group": 1},
+      {"id": "DOROTHY", "group": 1},
+      {"id": "OLIVIA", "group": 1},
+      {"id": "FLORA", "group": 1},
+      {"id": "E1", "group": 2},
+      {"id": "E2", "group": 2},
+      {"id": "E3", "group": 2},
+      {"id": "E4", "group": 2},
+      {"id": "E5", "group": 2},
+      {"id": "E6", "group": 2},
+      {"id": "E7", "group": 2},
+      {"id": "E8", "group": 2},
+      {"id": "E9", "group": 2},
+      {"id": "E10", "group": 2},
+      {"id": "E11", "group": 2},
+      {"id": "E12", "group": 2},
+      {"id": "E13", "group": 2},
+      {"id": "E14", "group": 2}
+    ],
+    "links": [
+        {"source": "EVELYN",  "target": "E1", "value": 1},
+        {"source": "EVELYN",  "target": "E2", "value": 1},
+        {"source": "EVELYN",  "target": "E3", "value": 1},
+        {"source": "EVELYN",  "target": "E4", "value": 1},
+        {"source": "EVELYN",  "target": "E5", "value": 1},
+        {"source": "EVELYN",  "target": "E6", "value": 1},
+        
+        {"source": "EVELYN",  "target": "E8", "value": 1},
+        {"source": "EVELYN",  "target": "E9", "value": 1},
+        
+        
+        {"source": "LAURA",  "target": "E1", "value": 1},
+        {"source": "LAURA",  "target": "E2", "value": 1},
+        {"source": "LAURA",  "target": "E3", "value": 1},
+        
+        {"source": "LAURA",  "target": "E5", "value": 1},
+        {"source": "LAURA",  "target": "E6", "value": 1},
+        {"source": "LAURA",  "target": "E7", "value": 1},
+        {"source": "LAURA",  "target": "E8", "value": 1},
+        
+        
+        {"source": "THERESA",  "target": "E2", "value": 1},
+        {"source": "THERESA",  "target": "E3", "value": 1},
+        {"source": "THERESA",  "target": "E4", "value": 1},
+        {"source": "THERESA",  "target": "E5", "value": 1},
+        {"source": "THERESA",  "target": "E6", "value": 1},
+        {"source": "THERESA",  "target": "E7", "value": 1},
+        {"source": "THERESA",  "target": "E8", "value": 1},
+        {"source": "THERESA",  "target": "E9", "value": 1},
+        
+        {"source": "BRENDA",  "target": "E1", "value": 1},
+        
+        {"source": "BRENDA",  "target": "E3", "value": 1},
+        {"source": "BRENDA",  "target": "E4", "value": 1},
+        {"source": "BRENDA",  "target": "E5", "value": 1},
+        {"source": "BRENDA",  "target": "E6", "value": 1},
+        {"source": "BRENDA",  "target": "E7", "value": 1},
+        {"source": "BRENDA",  "target": "E8", "value": 1},
+        
+        {"source": "CHARLOTTE",  "target": "E3", "value": 1},
+        {"source": "CHARLOTTE",  "target": "E4", "value": 1},
+        {"source": "CHARLOTTE",  "target": "E5", "value": 1},
+        
+        {"source": "CHARLOTTE",  "target": "E7", "value": 1},
+        
+        {"source": "FRANCES",  "target": "E3", "value": 1},
+        
+        {"source": "FRANCES",  "target": "E5", "value": 1},
+        {"source": "FRANCES",  "target": "E6", "value": 1},
+        
+        {"source": "FRANCES",  "target": "E8", "value": 1},
+        
+        {"source": "ELEANOR",  "target": "E5", "value": 1},
+        {"source": "ELEANOR",  "target": "E6", "value": 1},
+        {"source": "ELEANOR",  "target": "E7", "value": 1},
+        {"source": "ELEANOR",  "target": "E8", "value": 1},
+        
+        {"source": "PEARL",  "target": "E6", "value": 1},
+        
+        {"source": "PEARL",  "target": "E8", "value": 1},
+        {"source": "PEARL",  "target": "E9", "value": 1},
+        
+        {"source": "RUTH",  "target": "E5", "value": 1},
+        
+        {"source": "RUTH",  "target": "E7", "value": 1},
+        {"source": "RUTH",  "target": "E8", "value": 1},
+        {"source": "RUTH",  "target": "E9", "value": 1},
+        
+        {"source": "VERNE",  "target": "E7", "value": 1},
+        {"source": "VERNE",  "target": "E8", "value": 1},
+        {"source": "VERNE",  "target": "E9", "value": 1},
+        
+        {"source": "VERNE",  "target": "E12", "value": 1},
+        
+        {"source": "MYRNA",  "target": "E8", "value": 1},
+        {"source": "MYRNA",  "target": "E9", "value": 1},
+        {"source": "MYRNA",  "target": "E10", "value": 1},
+        
+        {"source": "MYRNA",  "target": "E12", "value": 1},
+        
+        {"source": "KATHERINE",  "target": "E8", "value": 1},
+        {"source": "KATHERINE",  "target": "E9", "value": 1},
+        {"source": "KATHERINE",  "target": "E10", "value": 1},
+        
+        {"source": "KATHERINE",  "target": "E12", "value": 1},
+        {"source": "KATHERINE",  "target": "E13", "value": 1},
+        {"source": "KATHERINE",  "target": "E14", "value": 1},
+        
+        {"source": "SYLVIA",  "target": "E7", "value": 1},
+        {"source": "SYLVIA",  "target": "E8", "value": 1},
+        {"source": "SYLVIA",  "target": "E9", "value": 1},
+        {"source": "SYLVIA",  "target": "E10", "value": 1},
+        
+        {"source": "SYLVIA",  "target": "E12", "value": 1},
+        {"source": "SYLVIA",  "target": "E13", "value": 1},
+        {"source": "SYLVIA",  "target": "E14", "value": 1},
+        
+        {"source": "NORA",  "target": "E6", "value": 1},
+        {"source": "NORA",  "target": "E7", "value": 1},
+        
+        {"source": "NORA",  "target": "E9", "value": 1},
+        {"source": "NORA",  "target": "E10", "value": 1},
+        {"source": "NORA",  "target": "E11", "value": 1},
+        {"source": "NORA",  "target": "E12", "value": 1},
+        {"source": "NORA",  "target": "E13", "value": 1},
+        {"source": "NORA",  "target": "E14", "value": 1},
+        
+        {"source": "HELEN",  "target": "E7", "value": 1},
+        {"source": "HELEN",  "target": "E8", "value": 1},
+        
+        {"source": "HELEN",  "target": "E10", "value": 1},
+        {"source": "HELEN",  "target": "E11", "value": 1},
+        {"source": "HELEN",  "target": "E12", "value": 1},
+        
+        {"source": "DOROTHY",  "target": "E8", "value": 1},
+        {"source": "DOROTHY",  "target": "E9", "value": 1},
+        
+        {"source": "OLIVIA",  "target": "E9", "value": 1},
+        
+        {"source": "OLIVIA",  "target": "E11", "value": 1},
+        
+        {"source": "FLORA",  "target": "E9", "value": 1},
+        
+        {"source": "FLORA",  "target": "E11", "value": 1}
+    ]
+  }
